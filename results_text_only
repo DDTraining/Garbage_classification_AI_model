@@ -1,0 +1,15 @@
+(11629,)
+(11629,)
+(1800,)
+(1800,)
+(3432,)
+(3432,)
+Epoch: 1, Train Loss: 0.4438
+Epoch: 1, Val Loss: 0.3420
+Epoch: 2, Train Loss: 0.2669
+Epoch: 2, Val Loss: 0.3061
+Epoch: 3, Train Loss: 0.2139
+Epoch: 3, Val Loss: 0.3334
+Epoch: 4, Train Loss: 0.1697
+Epoch: 4, Val Loss: 0.3275
+Accuracy:  0.8421
