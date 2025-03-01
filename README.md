@@ -13,11 +13,11 @@ This project implements a **multimodal classification model** that combines **im
 ## Model Training & Performance
 ###  Multimodal Model (Image + Text Fusion)
 
-| Metric  | Value |
+| Metric  | Value | 
 |---------|-------|
-| **Test Accuracy** | **85.40%** |
-| **Best Train Loss** | 0.689 |
-| **Best Validation Loss** | 0.706 |
+| **Test Accuracy** | **85.40%** | 
+| **Best Train Loss** | 0.689 | 
+| **Best Validation Loss** | 0.706 | 
 | **Epoch with Best Val Loss** | 5 |
 
 ### Classification Report
